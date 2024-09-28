@@ -1,4 +1,6 @@
-<h1 align=center> EVENTURA! </h1>
+
+![logo (1)](https://github.com/user-attachments/assets/683f9b40-ca72-4a1e-943c-2ae8dd169e31)
+
 <h2 align=center> Nome: Ana Beatriz Abreu dos Santos </h2>
 
 Este projeto tem como objetivo ser uma homenagem aos 470 anos da cidade de São Paulo uma cidade grande e com várias culturas em sua população, vários locais e eventos para conhecer.
