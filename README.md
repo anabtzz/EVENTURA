@@ -1,11 +1,14 @@
-
-![logo (3)](https://github.com/user-attachments/assets/36c571a1-c179-44c4-b706-34ede56d979b)
+<h1 align=center> EVENTURA! </h1>
 
 <h2 align=center> Nome: Ana Beatriz Abreu dos Santos </h2>
 
-Este projeto tem como objetivo ser uma homenagem aos 470 anos da cidade de São Paulo uma cidade grande e com várias culturas em sua população, vários locais e eventos para conhecer.
+Este projeto celebra os 470 anos da vibrante cidade de São Paulo, um verdadeiro mosaico cultural que abriga diversas etnias e tradições. 
 
-Esse aplicaitvo simples desenvolvindo em Flutter visa expor eventos de São Paulo que acontecem na grande cidade, mostrando o local, data e uma pequena descrição do evento.
+Com tantos locais icônicos e eventos emocionantes, é um desafio acompanhar tudo o que a cidade tem a oferecer.
+
+Para facilitar essa descoberta, desenvolvemos um aplicativo simples e intuitiva em Flutter que traz à luz os eventos mais relevantes da metrópole. 
+
+Venha explorar São Paulo de forma prática e dinâmica, e não perca a chance de vivenciar a rica diversidade que a cidade oferece!
 
 ### Sobre o Projeto:
 
