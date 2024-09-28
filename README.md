@@ -1,4 +1,5 @@
-![logo (2)](https://github.com/user-attachments/assets/45e98ec8-f4e9-41a5-a26a-282b564a6bdf)
+
+![logo (3)](https://github.com/user-attachments/assets/36c571a1-c179-44c4-b706-34ede56d979b)
 
 <h2 align=center> Nome: Ana Beatriz Abreu dos Santos </h2>
 
