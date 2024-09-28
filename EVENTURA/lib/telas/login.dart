@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'cadastropag.dart';
+import 'cadastro.dart';
 import 'home.dart';
 
 

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'cadastropag.dart';
+import 'cadastro.dart';
 
 class inicio extends StatelessWidget {
   const inicio({super.key});
