@@ -14,6 +14,6 @@ Venha explorar São Paulo de forma prática e dinâmica, e não perca a chance d
 
 - [Home](https://github.com/anabtzz/AppFlutter_IE/wiki#sobre)
 - [Desenvolvimemto](https://github.com/anabtzz/AppFlutter_IE/wiki/Desenvolvimento#prot%C3%B3tipo)
-- [Ficha Técnica](https://github.com/anabtzz/AppFlutter_IE/wiki/Ficha-T%C3%A9cnica#-tela-de-cadastro-e-login-)
+- [Ficha Técnica](https://github.com/anabtzz/EVENTURA/wiki/)
 - [Informações](https://github.com/anabtzz/AppFlutter_IE/wiki/Informa%C3%A7%C3%B5es#programas)
 - [Relatório](https://github.com/anabtzz/AppFlutter_IE/wiki/Informa%C3%A7%C3%B5es#relat%C3%B3rio)
